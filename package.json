@@ -1,0 +1,25 @@
+{
+  "name": "testable-gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ducksoupdev/testable-gulp.git"
+  },
+  "author": "Matt Levy <ducksoupdev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ducksoupdev/testable-gulp/issues"
+  },
+  "homepage": "https://github.com/ducksoupdev/testable-gulp",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "gulp": "^3.8.10",
+    "gulp-mocha": "^2.0.0",
+    "require-dir": "^0.1.0"
+  }
+}
